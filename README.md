@@ -4,4 +4,4 @@ This project is a smart security system using Arduino that integrates laser trip
 
 Circuit diagram can be referred in the attached image or https://app.cirkitdesigner.com/project/b287d76c-9100-46d5-bd67-9dedc50861e4
 
-The two python files are for Tkinter GUI, ardino.py is only for GUI whereas doorlock_gui.py contains code for both GUI and MongoDB data storage.
+The two python files are for Tkinter GUI, ardino.py is only for GUI whereas doorlock_gui.py contains code for both GUI and MongoDB data storage (install the necessary libraries).
